@@ -1,0 +1,11 @@
+codigo,nombre,cantidad,ventaDiaria,ventaSemanal,proveedor,stockMinimo
+PROD001,Producto A,150,5,35,China,50
+PROD002,Producto B,25,8,56,Miami,40
+PROD003,Producto C,0,3,21,China,30
+PROD004,Producto D,75,12,84,Miami,60
+PROD005,Producto E,200,2,14,China,20
+PROD006,Producto F,10,15,105,Miami,80
+PROD007,Producto G,300,1,7,China,15
+PROD008,Producto H,5,20,140,Miami,100
+PROD009,Producto I,180,6,42,China,45
+PROD010,Producto J,0,10,70,Miami,70
